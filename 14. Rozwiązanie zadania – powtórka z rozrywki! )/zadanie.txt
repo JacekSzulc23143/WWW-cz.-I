@@ -1,0 +1,56 @@
+Skopiuj poniższy kod HTML. Podgląd ukończonego zadania znajdziesz w kolejnym odcinku, więc jeśli chcesz, możesz zerknąć już teraz. 😉
+
+
+
+HTML:
+<div class="long">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam officiis atque adipisci neque quam ipsa, sapiente sequi facilis cum labore beatae ea error minima sint excepturi eius impedit incidunt molestias.</div>
+
+<div class="big"> 
+    <div class="child first">
+    </div>
+    <div class="child"></div>
+    <div class="child"></div>
+</div>
+
+
+Style dla DIV.long:
+
+   pozycja absolutna, top 250px, left 50px,
+
+   wysokość 600px, szerokość 150px,
+
+   padding 10px,
+
+   kolor tła - tomato.
+
+Po najechaniu na ten DIV, ma on zmienić swoją wysokość na 200px. Zmiana ma być płynna, a tekst, który nie będzie się w nim mieścił, ma być ukryty, aby nic nie wyciekało.
+
+
+
+Style dla DIV.big:
+
+   pozycja absolutna, top 250px, right 50px,
+
+   wysokość 600px, szerokość 800px,
+
+   kolor tła - royalblue.
+
+
+
+Style dla DIV.child:
+
+   solidne czarne obramowanie o szerokości 3px,
+
+   wysokość 200px.
+
+
+
+Za pomocą kombinatorów:
+
+   odwołaj się do pierwszego brata DIV.first i nadaj mu zielony kolor tła,
+
+   po najechaniu na DIV.first, kolor jego braci ma zmienić się na złoty. Zmiana ma być płynna i ma trwać sekundę.
+
+
+
+Powodzenia! 😎

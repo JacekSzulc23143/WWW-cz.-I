@@ -1,0 +1,9 @@
+1. Stwórz .square. Nadaj mu wymiary 300px x 300px.
+   Body ma mieć wysokość 100vh.
+
+2. Oryginalnie .square ma mieć kolor gold, od breakpointa 500px ma mieć kolor royalblue, a 700px ma być lime.
+
+3. Od 550px do 850px .square ma mieć szerokość 450px.
+   Powyżej 850px ma wrócić do swojej domyślnej szerokości.
+
+4. Body ma mieć domyślnie kolor #333. Od breakpointa 800px ma być nadany dowolny gradient.

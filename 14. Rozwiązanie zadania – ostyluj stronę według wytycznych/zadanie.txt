@@ -1,0 +1,26 @@
+1. Skasuj wszystko, co masz w pliku .html i .css, a następnie stwórz nową strukturę strony i podepnij style CSS.
+
+2. Zaimportuj czcionkę Comforta z Google Fonts. Pamiętaj, aby ją odpowiednio skonfigurować. 😉
+
+3. Zaimportuj Font Awesome.
+
+4. Ustaw kolor tła strony na #333, kolor czcionki na #fff, rozmiar na 36px.
+
+5. Stwórz tabelę z jednym rzędem i trzema komórkami. W komórki wstaw ikonę Apple, Google oraz Windows (Font Awesome).
+
+6. Pod tabelą umieść dowolny obrazek z internetu i za pomocą CSS ustaw mu szerokość na 800px. Zaokrąglij rogi obrazka o 25px.
+
+    DLA AMBITNYCH – wyśrodkuj obrazek na stronie za pomocą display oraz margin! 😎
+
+7. Pod obrazkiem stwórz DIV, w którym będzie paragraf:
+
+    - 10 słów LOREM,
+
+    - kolor lime,
+
+    - czcionka pogrubiona semantycznie.
+
+
+    DLA AMBITNYCH – pierwsze słowo w paragrafie ma być podkreślone i koloru tomato. 🍅
+
+8. Pod DIVem stwórz uporządkowaną listę i wypisz w niej 5 Twoich ulubionych potraw / dań / napojów.

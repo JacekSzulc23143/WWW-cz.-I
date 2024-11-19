@@ -1,0 +1,25 @@
+1. Stwórz sekcję MAIN, a w niej 3 DIVy.
+
+2. W pierwszym DIVie umieść 3 paragrafy.
+   W paragrafach wpisz "123".
+
+3. Drugi DIV ma mieć klasę child.
+   Wewnątrz tego DIVa stwórz 2 paragrafy z tekstem "abcd".
+
+4. W trzecim – ostatnim DIVie, stwórz 3 nowe DIVy.
+   Pierwszy DIV ma mieć ID test.
+   Drugi i trzeci DIV ma mieć w sobie napis "test".
+
+   P.S. Słowo "test" wpisz bezpośrednio w tagach <div>, pomiń <p>!
+
+5. Poza sekcją MAIN stwórz 2 paragrafy i wpisz w nich "Tekst poza DIVami".
+
+6. Zrób tak, aby każde <p> wewnątrz DIVa było czerwone.
+
+7. Za pomocą kombinatorów ustaw:
+
+   1. P wewnątrz DIV.child ma być pogrubione i przekreślone,
+
+   2. bracia DIV#test mają mieć niebieski kolor tła,
+
+   3. pierwszy paragraf pod sekcją MAIN ma być zamieniony na wielkie litery.

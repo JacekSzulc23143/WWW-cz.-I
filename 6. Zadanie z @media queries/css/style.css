@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Raleway", sans-serif;
+	font-size: 48px; /* rozmiar czcionki */
+	background-color: #333; /* kolor tła */
+}
+
+p {
+	display: none; /* napis Cześć! 😎 niewidoczny */
+}
+
+/* 1. 200px x 400px, strona ma być złota */
+@media (min-width: 200px) {
+	body {
+		background-color: gold; /* kolor tła */
+	}
+}
+
+/* 2. 400px x 600px, strona ma być niebieska */
+@media (min-width: 400px) {
+	body {
+		background-color: royalblue; /* kolor tła */
+	}
+}
+
+/* 3. 600px x 800px, strona ma być koloru tomato, napis ma być widoczny */
+@media (min-width: 600px) {
+	body {
+		background-color: tomato; /* kolor tła */
+	}
+	p {
+		display: block; /* napis Cześć! 😎 widoczny */
+	}
+}
+
+/* od 800px, wraca do pierwotnego koloru */
+@media (min-width: 800px) {
+	body {
+		background-color: #333; /* kolor tła */
+	}
+	p {
+		display: block; /* napis Cześć! 😎 widoczny */
+	}
+}

@@ -1,0 +1,13 @@
+1. DIV .box-1 ma mieć wymiary 400x400 px i kolor złoty.
+
+2. DIV .circle ma mieć wymiary 300x300 px i ma być kółkiem. 🍩
+   Kolor ustal za pomoca RGB. Ma to być kolor czerwony z 30% przeźroczystości.
+
+3. DIv .box-2 ma mieć max szerokość 800 px, min 500 px, a zwykła szerokość ma wynosić 100%. Wysokość 
+   200 px, kolor lime.
+
+4. DIv .box-3 ma mieć szerokość 50% viewportu, wysokość 300 px, kolor tomato. 🍅
+
+5. DIV .inside ma mieć połowę szerokości swojego rodzica.
+   Wysokość ma wynosić połowę szerokośći viewportu.
+   Kolor ma być taki sam, jak kolor nagłówków na stronie MMCSchool.pl 😎
